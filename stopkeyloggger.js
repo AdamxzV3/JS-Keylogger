@@ -1,4 +1,4 @@
-const webhookUrl = "https://discord.com/api/webhooks/1094331646980915331/gdrAU0urAk-yQQELETlgX0zMdKqGr2OgMzGzAXIuBpreyE4da2fnxsE6ZwbuKs1M0qQM";
+const webhookUrl = "YOURWEBHOOK";
 
 setInterval(() => {
   const xhr = new XMLHttpRequest();
